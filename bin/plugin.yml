@@ -1,0 +1,11 @@
+name: SpawnerChunks
+version: 1.0
+author: Flix Kei
+main: io.flixion.sc.SpawnerChunk
+description: 'A custom plugin requested by mathiaslk3#9108'
+softdepend: [Vault, Factions]
+
+commands:
+  lockdown:
+    usage: /<command>
+    description: View the faction's current lockdown timer (if any)
